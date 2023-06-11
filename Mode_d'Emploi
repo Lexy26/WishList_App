@@ -1,0 +1,45 @@
+Manuel d'emploi
+
+La "Connexion" se constitue de l'écran de démarrage qui permet soit de se connécter à l'application avec ses informations de connexion 
+(exemple, username 'Yolo', password 'Yolo123'), soit de s'enregistrer. 
+Si vous avez déjà vos coordonnés, vous pouvez insérer le nom d'utilisateur et le mot de passe, et cliquer sur 'SIGN IN' pour aller vers 
+l'écran "Menu Principal".
+Si vous n'avez pas encore de compte, vous pouvez cliquez sur 'SIGN UP'(en bas de l'écran) pour aller vers l'écran "création d'un compte"
+, ce qui vous permettra de créer votre propre profil. Une fois le profil créé, cliquez sur 'Confirm Account' pour être redirigés vers 
+l'écran "Profil utilisateur", où vous pouvez insérer votre nom complet, photo, adresse, couleur préférée et autres informations - et 
+par la suite, vous pourrez les modifier. Une fois les modifications sauvegardées, vous pouvez quitter cet écran via la flèche en bas a 
+gauche pour retourner vers l'écran "Menu principal".
+Une fois dans le "Menu Principal" vous pouvez accéder à votre :
+    -  profil pour le consulter et éventuellement le modifier en cliquant sur 'PROFILE';
+    -  listes de souhaits et aux listes de souhaits que d'autres utilisateur ont partagé avec vous en cliquant sur 'WISHLIST';
+    -  liste d'amis en cliquant sur 'FRIENDSLIST'.
+
+Ou vous pouvez simplement vous déconnectez via le bouton "LOG OUT" pour retourner à l'écran "Connexion".
+Si vous vous redirigez vers l'écran "Liste de souhaits" en cliquant sur 'WISHLIST' dans l'écran "Menu Principal", vous pouvez :
+    -  consulter toutes les listes de souhaits liées à votre compte;
+    -  rechercher une liste particulière à l'aide du 'Search  bar' en haut de l'écran;
+    -  accéder à l'une des listes pour consulter les produits qu'elle contient (en cliquant sur la liste intérésée);
+    -  supprimer une liste en prolongant le clic sur la liste intérésée;
+    -  ajouter une nouvelle liste à l'aide du bouton '+' juste en bas de la dèrnière liste;}
+    -  retourner vers l'écran "Menu Principal" via la flèche en bas a gauche.
+
+Si vous voulez voir les produits que une liste contient, cliquez sur la liste intéréssée dans l'écran "Liste de souhaits" et vous 
+serez redirigé vers l'écran "Détail d'une liste de souhaits", où vous pouvez:
+    -  consulter tous les produits de la liste de souhait intéréssée liées à votre compte;
+    -  rechercher un produit particulier à l'aide du 'Search  bar' en haut de l'écran;
+    -  accéder au détail du produit en cliquant sur le produit intérésée; 
+    -  supprimer un produit en prolongant le clic sur le produit intérésée;
+    -  ajouter un nouveau produit à l'aide du bouton '+' juste en bas du dèrnier produit;
+    -  retourner vers l'écran "Liste de souhaits" via la flèche en bas a gauche.
+
+Si vous ète intéréssée par la description d'un produit, dans l'écran "Détail d'une liste de souhaits", vou pouvez accéder à l'écran 
+"Détail Produit" en cliquant sur le produit intéréssé et vous pouvez voir le nom du produit, l'image, la catégorie, sa déscription, 
+le prix et autre; et si vous le souhaitez, retourner vers l'écran "Détail d'une liste de souhaits" via la flèche en bas a gauche.
+
+Si vous vous redirigez vers l'écran "Liste d'amis" en cliquant sur 'FRIENDSLIST' dans l'écran "Menu Principal", vous pouvez :
+    -  consulter tous les amis liées à votre compte;
+    -  rechercher un amis particulier à l'aide du 'Search  bar' en haut de l'écran;
+    -  accéder au profile de l'ami intéréssé (en y cliquant dessus) pour consulter ses caractéristiques;
+    -  supprimer un ami de sa liste d'amis en prolongant le clic sur l'ami pour lequel vous ète plus intéréssé;
+    -  ajouter un nouveau ami à l'aide du bouton '+' juste en bas du dèrnier ami;}
+    -  retourner vers l'écran "Menu Principal" via la flèche en bas a gauche.

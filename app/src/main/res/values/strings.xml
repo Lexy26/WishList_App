@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">WishListProject</string>
+    <string name="search_hint">Je ne sais pas ce que cela est</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="signupText">Don\'t have an account ?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="tvMessageError">* Incorrect email or password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="confirm_account">Confirm Account</string>
+    <string name="incorrect_password">* Incorrect password</string>
+    <string name="wish_button">WISH LIST</string>
+    <string name="menu">Menu</string>
+    <string name="friendslist">FriendsList</string>
+    <string name="profile">Profile</string>
+    <string name="title_activity_whishl_list_page">WhishlList_page</string>
+    <string name="deco">Log out</string>
+    <string name="add_whishlist">Add Whishlist</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="couleurpref">Couleur préférée</string>
+    <string name="name_info">Nom complet</string>
+    <string name="shoeSize">Pointure (chaussures)</string>
+    <string name="clothes">Taille de vêtements (S, M,...)</string>
+    <string name="hobby">Hobby(s)</string>
+    <string name="email">E-mail</string>
+    <string name="telephone">Telephone</string>
+    <string name="edit">Sauvegarder</string>
+    <string name="ProfileImage">Photo de profil</string>
+    <string name="anniversaire">Anniversaire</string>
+    <string name="modif">Modifier le profil</string>
+    <string name="title_activity_friend_list1">FriendList1</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="add_a_friend">Add a friend</string>
+    <string name="retour">Retour</string>
+
+</resources>
