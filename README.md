@@ -1,5 +1,7 @@
 # LSINF1225-2020-GroupeJ1_2-WishList
 
+**Conception orientée objet et gestion de données - UCLouvain**
+
 # Présentation
 WishList est une application réalisée avec AndroidStudio permettant de se connecter,
 créer un profil, ajouter des listes de souhaits et de remplir ces listes.
